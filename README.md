@@ -1,5 +1,5 @@
 # Spring-Maven-Simple-Project
-Poejecto Simple en maven con eclipse, creando contenedor de beans en xml 
+Projecto Simple en maven con eclipse, creando contenedor de beans en xml 
 ## Requisitos
 - Java 8 
 - Maven 3.0
